@@ -11,7 +11,6 @@ An interactive, all-in-one Streamlit web application for analyzing stock perform
 - Interactive candlestick charts with zoom and pan
 - Indicators: RSI (Relative Strength Index), SMA (Simple Moving Average), EMA (Exponential Moving Average)
 - Auto-generated **Buy/Hold/Sell recommendation** based on RSI + trend analysis
-- Signal markers for **buy/sell** conditions based on RSI and moving averages
 - RSI plotted separately for better visualization
 
 ### 2. 🧮 Fundamental Analysis
